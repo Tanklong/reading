@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://note.lrbrbl.pw
+highlighter: pygments
+gems: [jekyll-paginate]
+paginate: 100
+paginate_path: "page:num"
+name: 如履薄bing
+description: 如履薄bing | 遇见未知的自己
+author: lrbrbl
+email: lrbrbl@163.com
+duoshuo: lrbrbl
+weibo: 2723530031
+hub: lrbrbl
+safe: true
+about: "弱菜一枚。"
