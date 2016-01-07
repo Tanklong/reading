@@ -142,6 +142,8 @@ background: #83BF73;
 
 .row {
   height: 100%;
+  margin-left: -15px;
+  margin-right: -15px;
 }
 
 .center {
@@ -175,9 +177,6 @@ background: #83BF73;
 .table-bordered>thead>tr>th, .table-bordered>thead>tr>td {
     border-bottom-width: 2px
 }
-
-
-
 
 .panel {
     margin-bottom: 20px;
