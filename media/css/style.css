@@ -151,7 +151,10 @@ background: #83BF73;
 }
 
 .table-bordered {
-    border: 1px solid #ddd
+    border: 1px solid #ddd;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
 }
 
 .table-bordered>thead>tr>th, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>th,
