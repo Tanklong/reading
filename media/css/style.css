@@ -142,8 +142,6 @@ background: #83BF73;
 
 .row {
   height: 100%;
-  margin-left: -15px;
-  margin-right: -15px;
 }
 
 .center {
@@ -553,7 +551,6 @@ background: #83BF73;
     position: relative;
     min-height: 1px;
     padding-left: 25px;
-    padding-right: 5px;
 }
 
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6,
