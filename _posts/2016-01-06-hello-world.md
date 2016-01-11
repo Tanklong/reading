@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 categories: 其他
-tags: other
+tags: 其他
 ---
 
 终于忍不住了，想要写一点东西了。
